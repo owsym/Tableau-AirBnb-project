@@ -1,6 +1,6 @@
 ### This project investigates Airbnb listings using Tableau.
 
-##Visualizations:
+## Visualizations:
 
 - Price Per Bedroom: Scatter plot or bar chart showing price trends across bedrooms.
 - Bedroom Distribution: Bar chart or histogram revealing the most popular bedroom counts.
